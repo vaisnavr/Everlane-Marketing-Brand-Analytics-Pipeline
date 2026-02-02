@@ -5,6 +5,13 @@
 This project evaluates Everlane’s current brand positioning and performance using
 secondary data, sentiment analysis, geographic profiling, and primary survey analytics.
 The goal is to diagnose performance challenges and identify a viable strategic path forward.
+## Project Walkthrough
+
+<video width="100%" controls>
+  <source src="Everlane Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Data & Methods
 - Google Trends competitive analysis
