@@ -8,9 +8,9 @@ The goal is to diagnose performance challenges and identify a viable strategic p
 ## Project Walkthrough
 
 <video width="100%" controls>
-  <source src="Everlane Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="everlane_project_walkthrough.mp4" type="video/mp4">
 </video>
+
 
 
 ## Data & Methods
